@@ -7,5 +7,6 @@ public class test2
         a = a + b;
         System.out.println(a);
         System.out.println(b);
+        System.out.println(Math.random());
     }
 }
